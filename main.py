@@ -91,4 +91,4 @@ async def on_message(message):
             value = "**1.new**: !hq new +<country prefix><number>\n**2.life**:!hq life <code> <referral username>\n**3.life**:!hq stats <username>\n**4.life**:!hq nextgame")
         await client.send_message(message.channel, embed=embed)
 
-client.run('NDYxMjk5MjMwMjk2NzY4NTI1.DhRR_g.E7zxEAMgzDU0kS5el02kGGx1PwI')
+client.run('')
